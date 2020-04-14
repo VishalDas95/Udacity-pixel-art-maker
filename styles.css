@@ -1,9 +1,10 @@
 body {
     text-align: center;
-    background: url(https://i1.wp.com/lava360.com/wp-content/uploads/2014/01/Classic-Background-Images-For-Wordpress-Blogs-26.jpg);
+    background: #3b3b3b;
     background-size: cover;
     background-attachment: fixed;
     font-size: 25px;
+    color: white;
 }
 
 h1 {
